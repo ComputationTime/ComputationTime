@@ -9,7 +9,7 @@ Living in this era of abundant resources and endless opportunities, I am driven 
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 <!--
 **ComputationTime/ComputationTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
