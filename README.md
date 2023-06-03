@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/ComputationTime/ComputationTime/main/vancouver.jpg" />
-<p align="center" style="	font-size: 1.25rem;">📊👨🏻‍💻📚 Andre Mello Fortes</p>
+<p align="center" style="font-size: 3rem">📊👨🏻‍💻📚 Andre Mello Fortes</p>
 <p align="center" style="background-color:#6b7280; border-radius: 1rem; display:block; 	font-size: 1.25rem;">Software Engineer</p>
 
 <p>
