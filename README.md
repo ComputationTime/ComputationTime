@@ -1,3 +1,4 @@
+<img src="https://github.com/ComputationTime/ComputationTime/edit/main/vancouver.jpg" />
 # 📊👨🏻‍💻📚 Andre Mello Fortes
 
 **`Software Engineer`**
