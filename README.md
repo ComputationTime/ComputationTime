@@ -8,7 +8,7 @@ Living in this era of abundant resources and endless opportunities, I am driven 
 </p>
 ---
 
-### 🧰 Languages and Tools
+### 🧰  Languages and Tools
 
 <img align="left" alt="python" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
