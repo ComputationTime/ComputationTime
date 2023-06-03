@@ -1,4 +1,4 @@
-<img src="https://github.com/ComputationTime/ComputationTime/edit/main/vancouver.jpg" />
+<img src="https://raw.githubusercontent.com/ComputationTime/ComputationTime/main/vancouver.jpg" />
 # 📊👨🏻‍💻📚 Andre Mello Fortes
 
 **`Software Engineer`**
