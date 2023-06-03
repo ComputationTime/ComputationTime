@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ComputationTime/ComputationTime/main/vancouver.jpg" />
-<h1 align="center">📊👨🏻‍💻📚 Andre Mello Fortes</h1>
-<h2 align="center" style="background-color:#6b7280; border-radius: 1rem; display:block">Software Engineer</h2>
+<p align="center" style="	font-size: 1.25rem;">📊👨🏻‍💻📚 Andre Mello Fortes</p>
+<p align="center" style="background-color:#6b7280; border-radius: 1rem; display:block; 	font-size: 1.25rem;">Software Engineer</p>
 
 <p>
 I'm a passionate code addict, science lover, and math enthusiast. Data, computing, and engineering are some of my favorite things in the world. I am thrilled to witness the incredible potential of technology in helping others and creating services enjoyed by many.
