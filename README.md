@@ -40,4 +40,5 @@ Living in this era of abundant resources and endless opportunities, I am driven 
 <br/>
 <br/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computationtime&langs_count=7&hide=c,typescript,objective-c,jupyter+notebook,astro,gdscript" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computationtime&langs_count=6&hide=c,C++,matlab,typescript,objective-c,jupyter+notebook,astro,gdscript,mdx&layout=donut" />
+<img src="https://github-readme-stats.vercel.app/api?username=computationtime&show_icons=true&theme=dark" />
