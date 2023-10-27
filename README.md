@@ -42,7 +42,7 @@ Living in this era of abundant resources and endless opportunities, I am driven 
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=computationtime" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=computationtime&show_icons=true&rank_icon=percentile" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computationtime&langs_count=6&hide=c,c%2B%2B,matlab,objective-c,jupyter+notebook,astro,gdscript,mdx&layout=compact&card_width=320" />
