@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ComputationTime/ComputationTime/main/vancouver.jpg" />
+<img src="https://raw.githubusercontent.com/ComputationTime/ComputationTime/main/antibodies.jpeg" />
 
 <h2 align="center">📊👨🏻‍💻📚<br/>Andre Mello Fortes<br/><em>Something</em><br/></h2>
 <!-- <h3 align="center"><a align="center" href="www.andrefortes.com">www.andrefortes.com</a></h3> -->
@@ -40,3 +40,7 @@ A statement goes here
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computationtime&langs_count=6&hide=javascript,lua,css,m,objective-c,jupyter+notebook,astro,gdscript,mdx&layout=compact&card_width=320" />
 </a>
+
+
+
+Banner Image Acknowledgement: David S. Goodsell, RCSB Protein Data Bank and Springer Nature; doi: 10.2210/rcsb_pdb/goodsell-gallery-025
