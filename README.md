@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/ComputationTime/ComputationTime/main/antibodies.jpg" />
 
-<h2 align="center">📊👨🏻‍💻📚<br/>Andre Mello Fortes<br/><em>Something</em><br/></h2>
+<h2 align="center">📊👨🏻‍💻📚<br/>Andre Mello Fortes<br/><em></em><br/></h2>
 <!-- <h3 align="center"><a align="center" href="www.andrefortes.com">www.andrefortes.com</a></h3> -->
 
 
 
-<p>
+<!-- <p>
 Structural Biology
-</p>
+</p> -->
      
 <h3>🧰&nbsp Languages and Tools</h3>
 
@@ -33,13 +33,13 @@ Structural Biology
 <br/>
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=computationtime&show_icons=true&rank_icon=percentile" />
-</a>
+</a> -->
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computationtime&langs_count=6&hide=javascript,lua,css,m,objective-c,jupyter+notebook,astro,gdscript,mdx&layout=compact&card_width=320" />
-</a>
+</a> -->
 
 <br/>
 <br/>
